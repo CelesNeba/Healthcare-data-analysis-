@@ -145,4 +145,21 @@ The decimal formatting is just how MySQL displays averages, not hours or fractio
 
 #### 3.Revenue by department
 
+![Total_Revenue_by_dept](https://github.com/CelesNeba/Healthcare-data-analysis-/blob/main/Total_Revenue_by_dept.JPG)
+
+
+
+
+
+## 3 STEP 6: Jupyter Notebook (Python Analysis)
+
+#### What I will do in Python
+
+1. Connect to MySQL
+
+2. Validate data quality
+
+3. Engineer features
+
+4. Exploratory Data Analysis (EDA)
 
