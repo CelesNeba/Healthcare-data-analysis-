@@ -71,5 +71,6 @@ Tables I  will create
 
 
 
+
 ### STEP 4: Generate synthetic healthcare data
 
