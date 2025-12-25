@@ -61,7 +61,8 @@ Tables I  will create
 
 ### STEP 3: MySQL Database Schema
 
-### Table 1: patients
+##### Table 1: patients
+![Healthcare Patients Table Screenshot](https://github.com/CelesNeba/Healthcare-data-analysis-/blob/main/healthcare%20patients%20table%20screenshot.JPG)
 
 
 
