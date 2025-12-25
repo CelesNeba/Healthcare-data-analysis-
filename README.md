@@ -91,3 +91,7 @@ Tables I  will create
 
 #### Value 1: patients
 ![Healthcare Patients Table Value Screenshot](https://github.com/CelesNeba/Healthcare-data-analysis-/blob/main/healthcare%20patients%20table_Value%20screenshot.JPG)
+
+
+#### Value 2: admissions
+![Healthcare Admission Table Value Screenshot](https://github.com/CelesNeba/Healthcare-data-analysis-/blob/main/healthcare%20admission%20table_Value%20screenshot.JPG)
