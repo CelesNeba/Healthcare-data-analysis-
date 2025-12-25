@@ -70,6 +70,7 @@ Tables I  will create
 
 
 ##### Table 3: diagnoses
+![Healthcare Diagnosis Table Screenshot](https://github.com/CelesNeba/Healthcare-data-analysis-/blob/main/healthcare%20diagnosis%20table%20screenshot.JPG)
 
 
 ##### Table 4: procedures
