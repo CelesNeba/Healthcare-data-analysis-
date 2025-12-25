@@ -15,8 +15,61 @@ Hospital operations, quality of care, and financial performance analysis
 
 ### Tools used
 
-	MySQL – data storage, joins, KPI queries
+•	MySQL: Data storage, joins, KPI queries
 
- Jupyter Notebook (Python) – data validation, feature engineering, EDA
+• Jupyter Notebook (Python): Data validation, feature engineering, EDA
 
- Power BI – executive dashboards & storytelling
+• Power BI: Executive dashboards & storytelling
+
+###STEP 1: Define Business Questions
+
+This analysis  will answer healthcare questions such as: 
+
+### Operational
+
+o	What is the average length of stay (LOS) by diagnosis and department?
+
+o Which departments are over capacity?
+
+### Quality of care
+
+o Which diagnoses have the highest 30-day readmission rates?
+
+o Are outcomes improving over time?
+
+### Financial
+
+o What diagnoses and departments drive the most revenue?
+
+o Where are insurance reimbursement gaps?
+
+### STEP 2: Data Model (Healthcare-Realistic Schema)
+
+Tables I  will create
+
+• patients
+
+• admissions
+
+• diagnoses
+
+• procedures
+
+• billing
+
+• providers
+
+### STEP 3: MySQL Database Schema
+
+
+
+
+
+
+
+
+
+
+
+### STEP 4: Generate synthetic healthcare data
+
