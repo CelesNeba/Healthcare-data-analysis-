@@ -113,3 +113,20 @@ Tables I  will create
 #### Value 6: providers
 ![Healthcare Providers Table Value Screenshot](https://github.com/CelesNeba/Healthcare-data-analysis-/blob/main/healthcare%20providers%20table_Value%20screenshot.JPG)
 
+
+### STEP 5:  SQL queries
+
+#### 1. Length of stay
+
+
+
+
+
+#### 2. Readmission proxy (within 30 days)
+
+
+
+
+#### 3.Revenue by department
+
+
