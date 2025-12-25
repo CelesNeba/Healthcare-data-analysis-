@@ -21,7 +21,7 @@ Hospital operations, quality of care, and financial performance analysis
 
 • Power BI: Executive dashboards & storytelling
 
-###STEP 1: Define Business Questions
+### STEP 1: Define Business Questions
 
 This analysis  will answer healthcare questions such as: 
 
@@ -61,7 +61,7 @@ Tables I  will create
 
 ### STEP 3: MySQL Database Schema
 
-
+### Table 1: patients
 
 
 
