@@ -108,3 +108,8 @@ Tables I  will create
 #### Value 5: billing
 ![Healthcare Billing Table Value Screenshot](https://github.com/CelesNeba/Healthcare-data-analysis-/blob/main/healthcare%20billing%20table_Value%20screenshot.JPG)
 
+
+
+#### Value 6: providers
+![Healthcare Providers Table Value Screenshot](https://github.com/CelesNeba/Healthcare-data-analysis-/blob/main/healthcare%20providers%20table_Value%20screenshot.JPG)
+
