@@ -65,11 +65,21 @@ Tables I  will create
 ![Healthcare Patients Table Screenshot](https://github.com/CelesNeba/Healthcare-data-analysis-/blob/main/healthcare%20patients%20table%20screenshot.JPG)
 
 
+##### Table 2: admissions
+![Healthcare Admissions Table Screenshot](https://github.com/CelesNeba/Healthcare-data-analysis-/blob/main/healthcare%20admissions%20table%20screenshot.JPG)
+
+
+##### Table 3: diagnoses
+
+
+##### Table 4: procedures
+
+
+##### Table 5: billing
 
 
 
-
-
+##### Table 6: providers
 
 
 
