@@ -78,6 +78,7 @@ Tables I  will create
 
 
 ##### Table 5: billing
+![Healthcare Billing Table Screenshot](https://github.com/CelesNeba/Healthcare-data-analysis-/blob/main/healthcare%20billing%20table%20screenshot.JPG)
 
 
 
