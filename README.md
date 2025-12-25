@@ -74,6 +74,7 @@ Tables I  will create
 
 
 ##### Table 4: procedures
+![Healthcare Procedures Table Screenshot](https://github.com/CelesNeba/Healthcare-data-analysis-/blob/main/healthcare%20procedures%20table%20screenshot.JPG)
 
 
 ##### Table 5: billing
