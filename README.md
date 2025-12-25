@@ -163,3 +163,6 @@ The decimal formatting is just how MySQL displays averages, not hours or fractio
 
 4. Exploratory Data Analysis (EDA)
 
+
+![Jupyter analysis](https://github.com/CelesNeba/Healthcare-data-analysis-/blob/main/Jupyter%20analysis.JPG)
+
