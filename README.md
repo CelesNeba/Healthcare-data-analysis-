@@ -83,8 +83,10 @@ Tables I  will create
 
 
 ##### Table 6: providers
+![Healthcare Provider Table Screenshot](https://github.com/CelesNeba/Healthcare-data-analysis-/blob/main/healthcare%20provider%20table%20screenshot.JPG)
 
 
 
 ### STEP 4: Generate synthetic healthcare data
 
+#### Value 1: patients
