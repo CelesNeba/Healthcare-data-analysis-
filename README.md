@@ -90,3 +90,4 @@ Tables I  will create
 ### STEP 4: Generate synthetic healthcare data
 
 #### Value 1: patients
+![Healthcare Patients Table Value Screenshot](https://github.com/CelesNeba/Healthcare-data-analysis-/blob/main/healthcare%20patients%20table_Value%20screenshot.JPG)
