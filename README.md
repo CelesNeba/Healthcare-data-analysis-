@@ -138,12 +138,9 @@ The decimal formatting is just how MySQL displays averages, not hours or fractio
 
 
 
-
-
-
 #### 2. Readmission proxy (within 30 days)
 
-
+![Reamission within 30 days](https://github.com/CelesNeba/Healthcare-data-analysis-/blob/main/Reamission%20within%2030%20days.JPG)
 
 
 #### 3.Revenue by department
