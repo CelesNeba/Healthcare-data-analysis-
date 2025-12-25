@@ -119,6 +119,25 @@ Tables I  will create
 #### 1. Length of stay
 
 
+##### Note: 
+DATEDIFF() in MySQL returns the result in days (as an integer).
+
+When we wrap it in AVG(), MySQL treats it as a numeric average, so it formats the result with four decimal places, but the value is still in days.
+
+So:
+
+5.0000 = 5 days
+
+1.0000 = 1 day
+
+The decimal formatting is just how MySQL displays averages, not hours or fractions.
+
+![Mysql los screenshot](https://github.com/CelesNeba/Healthcare-data-analysis-/blob/main/Mysql%20los%20screenshot.JPG)
+
+
+
+
+
 
 
 
