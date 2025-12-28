@@ -184,3 +184,23 @@ The decimal formatting is just how MySQL displays averages, not hours or fractio
 
 
 
+
+
+## 🏥 Healthcare Performance & Quality Analytics Dashboard
+
+This project analyzes key healthcare performance metrics including patient admissions, operational efficiency, financial outcomes, and quality-of-care indicators such as patient satisfaction and readmission patterns.
+
+![Healthcare Dashboard](https://github.com/CelesNeba/Healthcare-data-analysis-/blob/main/healthcare%20dashboard.JPG)
+
+### 📊 Key Insights Visualized
+- 🩺 **Patient Satisfaction & Quality of Care**
+- 🏥 **Total Admissions & Length of Stay**
+- 💵 **Revenue & Financial Performance**
+- 🧾 **Department-Level Performance Metrics**
+
+Built using **Power BI, DAX, and simulated healthcare datasets** to demonstrate data modeling, analytics, and dashboard storytelling skills.
+
+
+
+
+
