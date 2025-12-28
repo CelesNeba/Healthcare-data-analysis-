@@ -166,3 +166,21 @@ The decimal formatting is just how MySQL displays averages, not hours or fractio
 
 ![Jupyter analysis](https://github.com/CelesNeba/Healthcare-data-analysis-/blob/main/Jupyter%20analysis.JPG)
 
+
+## STEP 7: Power BI dashboard
+
+• Overall patient care rating
+
+• Total admission by admission type
+
+• Revenue by diagnosis
+
+• Average length of stay
+
+• Total admission by month and year
+
+• Average satisfaction rating by department 
+
+
+
+
