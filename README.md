@@ -202,5 +202,11 @@ Built using **Power BI, DAX, and simulated healthcare datasets** to demonstrate 
 
 
 
+### My recommendation
+
+Based on the analysis, I recommend prioritizing improvements in care quality and operational efficiency, particularly in departments with lower patient satisfaction and longer average lengths of stay. Strengthening process workflows, enhancing staff–patient communication, and targeting resource optimization in underperforming units will help reduce readmissions, improve patient outcomes, and sustain financial performance while maintaining high-quality care delivery.
+
+
+
 
 
